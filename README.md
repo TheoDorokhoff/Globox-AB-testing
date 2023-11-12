@@ -4,6 +4,10 @@
 
 **Methodology:** The experiment involved random assignment of mobile website visitors to either the Control or Treatment group. A total of 48,943 participants (24,343 Control, 24,600 Treatment) took part in the 13-day experiment (January 25, 2023, to February 6, 2023).
 
+[Tableau Visializations](https://public.tableau.com/views/VisuzalizationsfortheGloboxproject/VisualizationoftheABtestingresults?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+[Statistics calculations](https://docs.google.com/spreadsheets/d/1N2PLL6hWrMbhP80xIMxAFjB9Hy8WMjzjik2b5nILrrg/edit?usp=sharing)
+
 **Results:**
 
 1.  **Conversion Rate:** The Control group had a conversion rate of 3.92%, while the Treatment group had a rate of 4.63%, indicating a statistically significant difference (p-value = 0.0001).
