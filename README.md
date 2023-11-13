@@ -8,6 +8,8 @@
 
 [Statistics calculations](https://docs.google.com/spreadsheets/d/1N2PLL6hWrMbhP80xIMxAFjB9Hy8WMjzjik2b5nILrrg/edit?usp=sharing)
 
+[Full written report](https://drive.google.com/file/d/1yLHtGE312QiCKWAr7WDq7H3qjzFXM_ut/view?usp=sharing)
+
 **Results:**
 
 1.  **Conversion Rate:** The Control group had a conversion rate of 3.92%, while the Treatment group had a rate of 4.63%, indicating a statistically significant difference (p-value = 0.0001).
