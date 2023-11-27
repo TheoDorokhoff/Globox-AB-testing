@@ -1,5 +1,7 @@
 ﻿# A/B Testing for GloBox Main Webpage
 
+ ![Globox logo]([Image URL](https://drive.google.com/file/d/168mKPbici4c5ecpNxs_AfQOASKoFnOOw/view?usp=sharing))
+
 **Introduction:** GloBox, an online marketplace, aimed to boost awareness of its "Food and Drinks" category by adding a special banner to its mobile webpage. This report presents the findings of an A/B test conducted to assess the impact on sales revenue. The test compared the Control group (Group A) with the Treatment group (Group B) to measure differences in the conversion rate and average amount spent per user.
 
 **Methodology:** The experiment involved random assignment of mobile website visitors to either the Control or Treatment group. A total of 48,943 participants (24,343 Control, 24,600 Treatment) took part in the 13-day experiment (January 25, 2023, to February 6, 2023).
