@@ -1,6 +1,6 @@
 ﻿# A/B Testing for GloBox Main Webpage
 
- ![Globox logo]([Image URL](https://drive.google.com/file/d/168mKPbici4c5ecpNxs_AfQOASKoFnOOw/view?usp=sharing))
+![Uploading Globox banner.jpg…]()
 
 **Introduction:** GloBox, an online marketplace, aimed to boost awareness of its "Food and Drinks" category by adding a special banner to its mobile webpage. This report presents the findings of an A/B test conducted to assess the impact on sales revenue. The test compared the Control group (Group A) with the Treatment group (Group B) to measure differences in the conversion rate and average amount spent per user.
 
